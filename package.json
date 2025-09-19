@@ -1,0 +1,25 @@
+{
+  "name": "rummikub_tg_build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GheorgheZen/Rummikub_TG_Build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GheorgheZen/Rummikub_TG_Build/issues"
+  },
+  "homepage": "https://github.com/GheorgheZen/Rummikub_TG_Build#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegraf": "^4.16.3"
+  }
+}
